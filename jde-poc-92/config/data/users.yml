@@ -1,0 +1,14 @@
+valid_users:
+
+  app_support:
+    username: e1testing
+    password: =Yg-UP4G
+    approver_id: 10654171
+
+  app_support_old:
+    username: deshpanpdv
+    password: dev$320dp
+
+  fg_csr:
+   username: TEST143
+   password: JDE$TST143
